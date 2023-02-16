@@ -1,2 +1,2 @@
 - [Home](/)
-- [Demo](Deno.md)
+- [Demo](Demo.md)
